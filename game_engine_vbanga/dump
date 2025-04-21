@@ -1,0 +1,1 @@
+	clang++ -std=c++17 -O2 -o game_engine_linux -I./glm-0.9.9.8 -I./rapidjson-1.1.0 main.cpp SceneDB.cpp
